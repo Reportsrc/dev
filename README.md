@@ -1,2 +1,2 @@
 # uid:hwid
-#KyinoSense B15
+#KyinoSense B17
